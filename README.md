@@ -1,1 +1,1 @@
-license v1.1a
+license v1.1
